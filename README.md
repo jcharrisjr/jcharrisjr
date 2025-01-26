@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jim Harris
+# 👋 Hi, I'm Jimbo Harris
 
 Welcome to my GitHub profile! I'm a seasoned **Application Security (AppSec) and Software Development Life Cycle (SDLC) Subject Matter Expert (SME)** with over 15 years of experience in the cybersecurity domain. My passion lies in developing secure software solutions and fostering trust-based relationships with clients and partners.
 
